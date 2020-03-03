@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581509453 source:c:\users\divyangt\desktop\final\main.c
+	"final.h"
+
+1581509463 c:\users\divyangt\desktop\final\final.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1581508878 source:c:\users\divyangt\desktop\final\test.c
+	"final.h"
+
